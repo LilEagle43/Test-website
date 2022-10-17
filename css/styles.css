@@ -40,3 +40,21 @@ nav {
 h1.siteTitle {
     display:block ;
 }
+
+.logo-nav {
+    width:30%;
+    display:inline-block;
+}
+.site-title {
+    width:40%;
+    text-align:center;
+    display:inline-block;
+}
+
+.main-content {
+    width:80%;
+    background-color:gold;
+    height:100vh;
+    margin:0 auto;
+    
+}
